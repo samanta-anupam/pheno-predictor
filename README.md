@@ -16,3 +16,9 @@ Midway Result:
 Keywords: Transcript Quantification, TPM, Prediction, Salmon
 
 Datasets : https://drive.google.com/drive/folders/0B_OfHrdJFRfdb3h3eEwyZ0FsY3M
+
+Glossary:
+
+1) TPM = (transcripts per million)
+TPM = Total # of reads / (effective length * 1000000)
+
