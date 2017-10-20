@@ -17,6 +17,8 @@ Keywords: Transcript Quantification, TPM, Prediction, Salmon
 
 Datasets : https://drive.google.com/drive/folders/0B_OfHrdJFRfdb3h3eEwyZ0FsY3M
 
+Salmon docs : http://salmon.readthedocs.io/en/latest/file_formats.html#fileformats
+
 Glossary:
 
 1) TPM = (transcripts per million)
