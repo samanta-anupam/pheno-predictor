@@ -14,3 +14,5 @@ Midway Result:
 	1) feature selection + 1 dimensionality reduction algorithm + 1 Multi-Classification Model 
     that beats the baseline.
 Keywords: Transcript Quantification, TPM, Prediction, Salmon
+
+Datasets : https://drive.google.com/drive/folders/0B_OfHrdJFRfdb3h3eEwyZ0FsY3M
