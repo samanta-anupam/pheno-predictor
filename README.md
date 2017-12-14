@@ -1,5 +1,5 @@
 # pheno-predictor
-Comp Bio fall 2017 project
+### Comp Bio fall 2017 project
 
 Phenotypic Prediction from Transcriptomic Features 
 Project Description: You are provided with output from Salmon, an RNA-seq mapping and quantification tool, on a number of datasets. The various samples come from different phenotypes; types of cancers in this case. Hence, each dataset is given a label based on the originating cancer type. Your task in this project is to build a model that takes the [Salmon](https://github.com/COMBINE-lab/salmon) output and predicts the original label. You can train your model using all or some subset of the input data but make sure to not overfit the model since we will be testing it on a different dataset. You can begin by selecting basic features from the Salmon output, such as TPM (transcripts per million), transcript lengths and counts. These are provided in the “quant.sf” file. However, we expect you will come up with a more complex feature selection method that will likely provide better results. We will provide a baseline that you must outperform. The goal is to achieve the maximum accuracy in classifying the samples using multi-class classification models. Ideally, you should test multiple feature selection methods and models. Your report should include all the results. 
